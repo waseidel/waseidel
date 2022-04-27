@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, Laravel
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me WaSeidel@gmail.com
+- 📫 How to reach me WaSeiDeV@gmail.com
 
 <!---
 waseidel/waseidel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
