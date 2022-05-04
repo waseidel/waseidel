@@ -1,14 +1,13 @@
-# 👋 Hi, I’m @waseidel
+# 👋 Hi, I’m @WaSeidel
 
-- 👀 I’m interested in React, Laravel, GraphQL
-- 🌱 I’m currently learning React
+- 👀 I’m interested in React, Laravel and GraphQL
+- 🌱 I’m currently learning React, Data Science
 - 💞️ I’m looking to collaborate on React projects
 
 ## 📫 How to reach me 
-- [![EMail](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)
-](WaSeiDeV@gmail.com)
-- [![Twitter](https://es.wikipedia.org/wiki/Twitter#/media/Archivo:Twitter-logo.svg)](https://twitter.com/WaSeidel)
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://linkedin.com/in/waseidel)
+- [<image src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px" /> GMail](WaSeiDel@gmail.com)
+- [<image src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style="width:20px;" /> Twitter](https://twitter.com/WaSeidel)
+- [<image src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:20px;" /> LinkedIn](https://linkedin.com/in/waseidel)
 
 ```typescript
 const anmol = {
