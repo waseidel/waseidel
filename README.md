@@ -10,7 +10,7 @@
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:20px;" /> LinkedIn](https://linkedin.com/in/waseidel)
 
 ```typescript
-const anmol = {
+const waseidel = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "php"],
     askMeAbout: ["web dev", "tech", "backend"],
