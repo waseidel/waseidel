@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on React projects
 
 ## 📫 How to reach me 
-- [<image src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px" /> GMail](WaSeiDel@gmail.com)
+- [<image src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px" /> GMail](mailto:WaSeiDel@gmail.com)
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style="width:20px;" /> Twitter](https://twitter.com/WaSeidel)
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:20px;" /> LinkedIn](https://linkedin.com/in/waseidel)
 
