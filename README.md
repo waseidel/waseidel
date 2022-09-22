@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @WaSeidel
 
-- 👀 I’m interested in React, Laravel and GraphQL
+- 👀 I’m interested in NodeJS, React, Laravel and GraphQL
 - 🌱 I’m currently learning React, Data Science
 - 💞️ I’m looking to collaborate on React projects
 
@@ -8,6 +8,7 @@
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width:20px" /> GMail](mailto:WaSeiDel@gmail.com)
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" style="width:20px;" /> Twitter](https://twitter.com/WaSeidel)
 - [<image src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="width:20px;" /> LinkedIn](https://linkedin.com/in/waseidel)
+- [<image src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" style="width:20px;" /> Stack Overflow](https://stackoverflow.com/users/11681478/walther-seidel)
 
 ```typescript
 const waseidel = {
@@ -20,11 +21,11 @@ const waseidel = {
             css: ["TailwindCSS", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "apollo", "graphql"],
+            js: ["NodeJS", "express", "apollo", "graphql"],
             python: ["pandas"]
         },
         devOps: ["Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["MongoDB", "MySql", "sqlite"],
     },
     tools: ["VSCode", "NeoVim", "Arch Linux", "Windows", "Excel", "Jupyter"]
     architecture: ["Serverless Architecture", "Single page applications"],
