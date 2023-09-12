@@ -26,6 +26,7 @@ const waseidel = {
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MongoDB", "MySql", "sqlite"],
+        frameworks: ["laravel"],
     },
     tools: ["VSCode", "NeoVim", "Arch Linux", "Windows", "Excel", "Jupyter"]
     architecture: ["Serverless Architecture", "Single page applications"],
